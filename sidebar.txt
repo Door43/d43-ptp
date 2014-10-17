@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ptp:home|Door43 (ptp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ptp|d43-ptp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ptp/archive/master.zip|d43-ptp.zip]]
+
+**Recent Changes**
+{{changes>ns = ptp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ptp|Ethnologue data]]
+
